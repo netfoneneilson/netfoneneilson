@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Hotel Tech Integrations
 - 📫 How to reach me Oliver Neilson Linkedin
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Sloths can hold their breath longer than Dolphins
 
 <!---
 netfoneneilson/netfoneneilson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
